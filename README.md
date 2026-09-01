@@ -3,14 +3,14 @@
 # 🌿 GreenCare Command Centre
 ### GreenSafe AI — Hospital Sustainability & Compliance Intelligence Platform
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Open_Now-166534?style=for-the-badge)](https://YOUR_USERNAME.github.io/greencare-demo)
-[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Deployed-222222?style=for-the-badge&logo=github)](https://YOUR_USERNAME.github.io/greencare-demo)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Open_Now-166534?style=for-the-badge)](https://27sepvikas.github.io/greencare-demo)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Deployed-222222?style=for-the-badge&logo=github)](https://27sepvikas.github.io/greencare-demo)
 [![No Install](https://img.shields.io/badge/Zero_Install-Single_HTML-success?style=for-the-badge)](index.html)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
 **Building Data → Applicable Rules → KPI Calculation → Risk Detection → Gap Analysis → Recommendation → Cost/ROI → Action Plan → Evidence → Reassessment**
 
-### 🔴 [▶ Open Live Demo](https://YOUR_USERNAME.github.io/greencare-demo)
+### 🔴 [▶ Open Live Demo](https://27sepvikas.github.io/greencare-demo)
 > ⚡ No login · No install · No backend · Works 100% in browser
 
 ---
